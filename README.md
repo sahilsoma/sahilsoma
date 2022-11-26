@@ -15,7 +15,7 @@
 <a href="https://in.linkedin.com/in/sahilsoma"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rajat2502" /></a>&nbsp;
 <a href="https://codepen.com/sahilsoma" target="_blank"><img src="https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white" alt=codepen style="margin-bottom: 5px;" />
 </a>&nbsp;
-
+<a href="https://sahilsoma.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-LiveCV-brightgreen?style=for-the-badge" /></a>&nbsp;
 
 <!---
 sahilsoma/sahilsoma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
