@@ -1,10 +1,12 @@
 ![](https://komarev.com/ghpvc/?username=sahilsoma&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 
 - 👋 &nbsp;Hi, I’m @sahilsoma
+- 🗒 &nbsp; Full stack developer with knowledge of digital marketing and CRO
 - 👀 &nbsp;I’m interested in full stack development
 - 🤝 &nbsp;Looking to **collaborate** on innovative ideas!
 - 🌱 &nbsp;I’m currently learning MERN stack
 - 💬 &nbsp;Ask me about **JavaScript, BootStrap, PHP, Responsiveness, Accesibility, Security and Rapid development**
+- 💞️ &nbsp;Also feel free to discuss CRO & SEO
 - 📫 &nbsp;How to reach me - [Email me](mailto:sahilsoma@pm.me)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sahilsoma&show_icons=true" alt="sahilsoma" /> </p>
