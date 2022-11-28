@@ -1,3 +1,6 @@
+# Hi, thanks for visiting my profile, feel free to follow or msg me
+<p>Welcome to my GitHub Profile!</p>
+
 ![](https://komarev.com/ghpvc/?username=sahilsoma&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 
 - 👋 &nbsp;Hi, I’m @sahilsoma
@@ -8,6 +11,16 @@
 - 💬 &nbsp;Ask me about **JavaScript, BootStrap, PHP, Responsiveness, Accesibility, Security and Rapid development**
 - 💞️ &nbsp;Also feel free to discuss CRO & SEO
 - 📫 &nbsp;How to reach me - [Email me](mailto:sahilsoma@pm.me)
+
+## Tools I use to Code
+<p>
+<img src="https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white" />
+<img src="https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=Bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=PHP&logoColor=white" />
+<img src="https://img.shields.io/badge/-MySQL-lightblue?style=flat-square&logo=MySQL&logoColor=white" />
+</p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sahilsoma&show_icons=true" alt="sahilsoma" /> </p>
 
