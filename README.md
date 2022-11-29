@@ -12,7 +12,7 @@
 - 💞️ &nbsp;Also feel free to discuss CRO & SEO
 - 📫 &nbsp;How to reach me - [Email me](mailto:sahilsoma@pm.me)
 
-## Tools I use to Code
+## Tools and Resources I use for Development
 <p>
 <img src="https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white" />
@@ -20,6 +20,15 @@
 <img src="https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=Bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=PHP&logoColor=white" />
 <img src="https://img.shields.io/badge/-MySQL-lightblue?style=flat-square&logo=MySQL&logoColor=white" />
+<img src="https://img.shields.io/badge/-MariaDB-darkgreen?style=flat-square&logo=MariaDB&logoColor=white" />
+<img src="https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=Markdown&logoColor=white" />
+<img src="https://img.shields.io/badge/-XAMPP-orange?style=flat-square&logo=XAMPP&logoColor=white" />
+<img src="https://img.shields.io/badge/-VisualStudioCode-blue?style=flat-square&logo=Visual-Studio-Code&logoColor=white" />
+<img src="https://img.shields.io/badge/-CodePen-black?style=flat-square&logo=CodePen&logoColor=white" />
+<img src="https://img.shields.io/badge/-Trello-blue?style=flat-square&logo=Trello&logoColor=white" />
+<img src="https://img.shields.io/badge/-Atom-darkgreen?style=flat-square&logo=Atom&logoColor=white" />
+<img src="https://img.shields.io/badge/-AwesomeLists-pink?style=flat-square&logo=Awesome-Lists&logoColor=black" />
+
 </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sahilsoma&show_icons=true" alt="sahilsoma" /> </p>
