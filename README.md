@@ -31,7 +31,7 @@
 
 </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sahilsoma&show_icons=true" alt="sahilsoma" /> </p>
+<!--- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sahilsoma&show_icons=true" alt="sahilsoma" /> </p> --->
 
 ## Connect With Me
 
