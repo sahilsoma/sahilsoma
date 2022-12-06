@@ -15,20 +15,34 @@
 ## Tools and Resources I use for Development
 <p>
 <img src="https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white" />
-<img src="https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=Bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=PHP&logoColor=white" />
-<img src="https://img.shields.io/badge/-MySQL-lightblue?style=flat-square&logo=MySQL&logoColor=white" />
-<img src="https://img.shields.io/badge/-MariaDB-darkgreen?style=flat-square&logo=MariaDB&logoColor=white" />
-<img src="https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=Markdown&logoColor=white" />
-<img src="https://img.shields.io/badge/-XAMPP-orange?style=flat-square&logo=XAMPP&logoColor=white" />
-<img src="https://img.shields.io/badge/-VisualStudioCode-blue?style=flat-square&logo=Visual-Studio-Code&logoColor=white" />
-<img src="https://img.shields.io/badge/-CodePen-black?style=flat-square&logo=CodePen&logoColor=white" />
-<img src="https://img.shields.io/badge/-Trello-blue?style=flat-square&logo=Trello&logoColor=white" />
-<img src="https://img.shields.io/badge/-Atom-darkgreen?style=flat-square&logo=Atom&logoColor=white" />
-<img src="https://img.shields.io/badge/-AwesomeLists-pink?style=flat-square&logo=Awesome-Lists&logoColor=black" />
-
+<img src="https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=Bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/-MySQL-lightblue?style=for-the-badge&logo=MySQL&logoColor=white" />
+<img src="https://img.shields.io/badge/-MariaDB-darkgreen?style=for-the-badge&logo=MariaDB&logoColor=white" />
+<img src="https://img.shields.io/badge/-Markdown-black?style=for-the-badge&logo=Markdown&logoColor=white" />
+<img src="https://img.shields.io/badge/-XAMPP-orange?style=for-the-badge&logo=XAMPP&logoColor=white" />
+<img src="https://img.shields.io/badge/-VisualStudioCode-blue?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" />
+<img src="https://img.shields.io/badge/-CodePen-black?style=for-the-badge&logo=CodePen&logoColor=white" />
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+<img src="https://img.shields.io/badge/-Atom-darkgreen?style=for-the-badge&logo=Atom&logoColor=white" />
+<img src="https://img.shields.io/badge/-AwesomeLists-pink?style=for-the-badge&logo=Awesome-Lists&logoColor=black" />
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />
+<img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" />
+<img src="https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white" />
+<img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" />
+<img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" />
+<img src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE" />
+<img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
+<img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white" />
+<img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white" />
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+<img src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 <!--- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sahilsoma&show_icons=true" alt="sahilsoma" /> </p> --->
