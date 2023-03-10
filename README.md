@@ -48,8 +48,8 @@
 
 ## Other Interests
 <p>
-<img src="https://img.shields.io/badge/RaspberryPI-lightgreen?style=for-the-badge&logo=raspberrypi&logoColor=magenta" />
-<img src="https://img.shields.io/badge/Arduino-darkgreen?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/RaspberryPI-6CC04A?style=for-the-badge&logo=raspberrypi&logoColor=C51A4A" />
+<img src="https://img.shields.io/badge/Arduino-038C8C?style=for-the-badge&logo=arduino&logoColor=F2F2F2" />
 <img src="https://img.shields.io/badge/ESP8286-black?style=for-the-badge&logo=IoT&logoColor=FCC624" />
 <img src="https://img.shields.io/badge/ESP32-white?style=for-the-badge&logo=IoT&logoColor=black" />
 </p>
