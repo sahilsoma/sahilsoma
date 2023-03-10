@@ -46,6 +46,12 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
+## Other Interests
+<p>
+<img src="https://img.shields.io/badge/RaspberryPI-lightgreen?style=for-the-badge&logo=raspberrypi&logoColor=magenta" />
+
+</p>
+  
 <!--- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sahilsoma&show_icons=true" alt="sahilsoma" /> </p> --->
 
 ## Connect With Me
