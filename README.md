@@ -51,6 +51,7 @@
 <img src="https://img.shields.io/badge/RaspberryPI-lightgreen?style=for-the-badge&logo=raspberrypi&logoColor=magenta" />
 <img src="https://img.shields.io/badge/Arduino-darkgreen?style=for-the-badge&logo=arduino&logoColor=white" />
 <img src="https://img.shields.io/badge/ESP8286-black?style=for-the-badge&logo=IoT&logoColor=FCC624" />
+<img src="https://img.shields.io/badge/ESP32-white?style=for-the-badge&logo=IoT&logoColor=black" />
 </p>
   
 <!--- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sahilsoma&show_icons=true" alt="sahilsoma" /> </p> --->
