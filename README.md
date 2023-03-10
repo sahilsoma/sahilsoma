@@ -49,6 +49,7 @@
 ## Other Interests
 <p>
 <img src="https://img.shields.io/badge/RaspberryPI-lightgreen?style=for-the-badge&logo=raspberrypi&logoColor=magenta" />
+<img src="https://img.shields.io/badge/Arduino-darkgreen?style=for-the-badge&logo=arduino&logoColor=white" />
 
 </p>
   
