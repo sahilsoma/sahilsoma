@@ -19,6 +19,7 @@
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=Bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-ffde57?style=for-the-badge&logo=python&logoColor=4584b6" />
 <img src="https://img.shields.io/badge/-MySQL-lightblue?style=for-the-badge&logo=MySQL&logoColor=white" />
 <img src="https://img.shields.io/badge/-MariaDB-darkgreen?style=for-the-badge&logo=MariaDB&logoColor=white" />
 <img src="https://img.shields.io/badge/-Markdown-black?style=for-the-badge&logo=Markdown&logoColor=white" />
