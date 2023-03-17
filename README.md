@@ -35,7 +35,10 @@
 </p>
 
 ### Languages
-<img src="https://img.shields.io/badge/Lua-ffffff?style=for-the-badge&logo=lua&logoColor=0000ff" />
+<p>
+<img src="https://img.shields.io/badge/C-ffd814?style=for-the-badge&logo=c&logoColor=ff0000" />
+<img src="https://img.shields.io/badge/Lua-ffffff?style=for-the-badge&logo=lua&logoColor=0000ff" />  
+</p>
 
 ### Tools
 <p>
