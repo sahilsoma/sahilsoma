@@ -34,6 +34,9 @@
 <img src="https://img.shields.io/badge/Python-ffde57?style=for-the-badge&logo=python&logoColor=4584b6" />
 </p>
 
+### Languages
+<img src="https://img.shields.io/badge/Lua-ffffff?style=for-the-badge&logo=lua&logoColor=0000ff" />
+
 ### Tools
 <p>
 <img src="https://img.shields.io/badge/-XAMPP-orange?style=for-the-badge&logo=XAMPP&logoColor=white" />
