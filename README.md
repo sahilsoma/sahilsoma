@@ -23,7 +23,8 @@
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=Bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/-Markdown-black?style=for-the-badge&logo=Markdown&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
 </p>
 
 ### BackEnd
