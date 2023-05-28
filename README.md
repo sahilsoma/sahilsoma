@@ -33,6 +33,7 @@
 <img src="https://img.shields.io/badge/-MySQL-lightblue?style=for-the-badge&logo=MySQL&logoColor=white" />
 <img src="https://img.shields.io/badge/-MariaDB-darkgreen?style=for-the-badge&logo=MariaDB&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-ffde57?style=for-the-badge&logo=python&logoColor=4584b6" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ### Languages
